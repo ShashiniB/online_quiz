@@ -1,0 +1,38 @@
+body{
+	background: Linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5));
+	background-size: cover;
+	background-position: center;
+}
+.login-box{
+	max-width:600px;
+	float: none;
+	background:rgba(100,100,100,0.5);
+	margin:50px;
+	padding: 40px;
+	background-position:center;
+	 border-radius: 12px;
+}
+.form-control{
+	
+	background-color:transparent !important;
+
+}
+input[type="submit"]{
+ background-color:blue;
+ text-decoration:none;
+ padding:10px 100px;
+ border-radius: 12px;
+ display:inline-block;
+ text-align:center;
+ border:none;
+ font-size:16px;
+ color:white;
+
+}
+input[type="u_name"]{
+	color:red;
+	font-style:bold;
+	
+	
+}
+	
